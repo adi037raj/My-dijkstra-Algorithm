@@ -1,0 +1,11 @@
+Hello..
+
+
+To run mycode use c++(gcc) 
+
+I have done my programming in codeblocks IDE, so please try to use that only as it more friendly
+
+Please take care of the name of file(Nodes.txt , Edges.txt)
+
+I have used some of STL tools ..
+for refrence in STL  -https://www.geeksforgeeks.org/the-c-standard-template-library-stl/
